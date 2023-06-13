@@ -17,3 +17,7 @@
 - vscode의 Extensions에서 Rest Client를 설치해서 사용합니다.
 - Rest API 테스트를 간편하게 할 수 있습니다.
 - 본 예제에서는 person.http 에서 지정 해주었습니다. (http 확장자로 사용하면, vscode 이외의 편집기에서도 동작합니다)
+
+<br><br><br><br><br><br>
+
+출처 - Node.js 백엔드 개발자 되기 (저자 : 박승규)
